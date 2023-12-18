@@ -1,0 +1,5 @@
+fsm.c:27:5:isCmdRST	4
+fsm.c:34:5:isCmdOK	3
+fsm.c:40:6:printTest	2
+fsm.c:47:6:cmd_parser_fsm	9
+fsm.c:78:6:uart_comm_fsm	4
